@@ -4,12 +4,10 @@ I'm a full stack software engineer 👩‍💻 based in Los Angeles, CA. I use m
 
 Recently, I created [Edamame](https://get-edamame.com/) an open-source, distributed load testing framework, optimized for real-time collaboration apps that use both HTTP and WebSockets. Edamame supports up to 200,000 virtual users and processes more than a million data points per second in a near real-time data visualization pipeline.
 
-![logo light bg](https://user-images.githubusercontent.com/76539276/234156512-a25b3b4f-54ce-4515-a772-fd431ae8843a.png)
-
-<img width="1110" alt="react-dashboard" src="https://user-images.githubusercontent.com/76539276/234149216-1c9b14f2-7344-47fd-99b8-f3dca4ed9fba.png">
-
 Find out more:
+
 👉 [Edamame Case Study](https://get-edamame.com/case-study)
+
 👉 [My Website](https://gcpinckert.com)
 
 <!--
