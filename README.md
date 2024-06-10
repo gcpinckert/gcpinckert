@@ -1,8 +1,8 @@
 ### 👋 Hi! I'm Ginni.
 
-I'm a full stack software engineer 👩‍💻 based in Los Angeles, CA. I use my experience as a Professional Organizer to write efficient, maintainable code and 🫧tidy up🫧 complex problems.
+I'm a full stack software engineer 👩‍💻 based in Los Angeles, CA. I use my experience as a Professional Organizer to write efficient, maintainable code and 🫧tidy up🫧 complex problems. Currently, I'm working at [Sudowrite](https://www.sudowrite.com/), an AI creative writing tool.
 
-Recently, I created [Edamame](https://get-edamame.com/) an open-source, distributed load testing framework, optimized for real-time collaboration apps that use both HTTP and WebSockets. Edamame supports up to 200,000 virtual users and processes more than a million data points per second in a near real-time data visualization pipeline.
+Previously, I created [Edamame](https://get-edamame.com/) an open-source, distributed load testing framework, optimized for real-time collaboration apps that use both HTTP and WebSockets. Edamame supports up to 200,000 virtual users and processes more than a million data points per second in a near real-time data visualization pipeline.
 
 Find out more:
 
